@@ -1,3 +1,8 @@
+# Calculadora de média
+# Desenvolvido por
+# Kaidy Alack do 2B
+# Ana Clara de Lima 2B
+
 from calc_temp import Temperatura
 
 
